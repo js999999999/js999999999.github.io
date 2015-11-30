@@ -1,2 +1,2 @@
- window.open ("http://www.3330111.com/#cai-baidu"); 
- window.location.href="http://www.3330111.com/#cai-baidu"; 
+ window.open ("http://556.io/#cai-baidu"); 
+ window.location.href="http://556.io/#cai-baidu"; 
