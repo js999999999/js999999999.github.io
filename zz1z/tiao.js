@@ -1,2 +1,2 @@
- window.open ("http://556.io/#cai-baidu"); 
- window.location.href="http://556.io/#cai-baidu"; 
+ window.open("http://www.fftyc1.com/"); 
+ window.location.href="http://www.fftyc1.com/"; 
