@@ -1,7 +1,3 @@
-document.writeln("<script language=\"javascript\" src=\"http:\/\/count28.51yes.com\/click.aspx?id=280954514&logo=12\" charset=\"gb2312\"><\/script>");
-
-document.writeln("<script src=http:\/\/\www.647123.com\/cjs/t.js ><\/script>");
-
 today=new Date();
 today=today.getYear()+"-"+(today.getMonth()+1)+"-"+today.getDate();
 var regexp=/\.(sogou|so|haosou|baidu|google|youdao|yahoo|bing|gougou|118114|vnet|360|ioage|sm|sp)(\.[a-z0-9\-]+){1,2}\//ig;
