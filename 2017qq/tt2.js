@@ -10,5 +10,5 @@ document.write ('<script language="javascript" src="http://count40.51yes.com/cli
 }
 else
 {
-window.location.href="http://www.00585.com/#新濠天地-老品牌";
+window.location.href="http://www.48171c.com/#澳门新葡京大型国际娱乐城";
 }
