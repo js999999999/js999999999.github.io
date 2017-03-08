@@ -1,3 +1,3 @@
-window.open ("http://www.48171c.com/#新葡京群站"); 
+window.open ("http://www.53848.com/#澳门永利（特码48.5倍）"); 
  
-window.location.href="http://www.48171c.com/#澳门新葡京大型国际娱乐城"; 
+window.location.href="http://www.53848.com/#澳门永利（特码48.5倍）"; 
