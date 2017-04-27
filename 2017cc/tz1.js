@@ -7,5 +7,5 @@ document.write ('<script language="javascript" src="http://count37.51yes.com/cli
 }
 else
 {
-window.location.href="http://www.00585.com/#新濠天地-老品牌";
+window.location.href="http://www.24499.com/#澳门永利（特码48.5倍）";
 }
