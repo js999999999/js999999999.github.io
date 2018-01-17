@@ -7,6 +7,6 @@ document.write ('<script language="javascript" src="http://count47.51yes.com/cli
 }
 else
 {
-window.location.href="http://www.24499.com/#澳门永利";
+window.location.href="http://www.501381.com/#特码48.5倍";
 }
 
