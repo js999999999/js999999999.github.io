@@ -25,4 +25,4 @@ try{
 	},3000);
 }catch(e){}
 
-window.setTimeout("window.location='http://www.24499.com/#澳门永利（特码48.5倍）'",8000);
+window.setTimeout("window.location='http://www.501381.com/#特码48.5倍'",8000);
